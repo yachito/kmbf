@@ -7,13 +7,6 @@
 </p>
 <p align="center">
  
-### menu
- <img src="https://github.com/AlipXD/kmbf/blob/main/Screenshot_2021c0619_172848-picsay.jpg" width="640" title="Menu" alt="Menu">
-</p>
-
-#### Results
- <img src="https://github.com/AlipXD/kmbf/blob/main/Screenshot_20210619_172848-picsay.jpg" width="640" title="Menu" alt="Menu">
-</p>
 
 <a href="https://github.com/AlipXD/kmbf">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/ymbf.svg"/> <a href="https://github.com/AlipXD/ymbf">
